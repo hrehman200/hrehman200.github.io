@@ -1,8 +1,10 @@
-# Dream Outcome legal pages
+# hrehman200.github.io
 
-Public Privacy Policy and Terms of Use for the Dream Outcome iOS app.
+Public project pages.
 
-- https://hrehman200.github.io/privacy.html
-- https://hrehman200.github.io/terms.html
+- https://hrehman200.github.io/ — project list
+- https://hrehman200.github.io/dreamoutcome/ — Dream Signs
+- https://hrehman200.github.io/dreamoutcome/privacy.html
+- https://hrehman200.github.io/dreamoutcome/terms.html
 
-Source of truth: the `site/` folder and `docs/legal/` in the private `dreamsigns` repository.
+Source of truth: the `site/` folder in the private `dreamsigns` repository.
